@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MapBox</title>
+</head>
+
+
+<body>
+    <button onclick="less(1)">1</button>
+    <div id="receber"></div>
+    <button onclick="more()">2</button>
+    <script>
+        var pag = 1
+        var rec = document.getElementById("receber")
+
+        function more() {
+            pag++
+            req()
+        }
+
+        function less() {
+            pag--
+            req()
+        }
+
+        function req() {
+            fetch(`https://reqres.in/api/users?page=${pag}`, {
+                method: "GET"
+            }).then(function(result) {
+                result.json().then(dados => {
+                    receber.innerHTML = ``;
+                    for (dado in dados.data) {
+                        if (dados.data < 1) {
+                            receber.innerHTML += `<p>Nada Encontrado</p>`;
+
+                        } else {
+                            receber.innerHTML += `<p>Nome: ${dados.data[dado].first_name}, E-mail: ${dados.data[dado].email}</p>`;
+                        }
+                    }
+                });
+            });
+        }
+        req()
+    </script>
+
+</body>
+
+</html>

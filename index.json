@@ -1,0 +1,404 @@
+{
+    "stores": {
+        "type": "FeatureCollection",
+        "features": [{
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.6016284, -23.5227555]
+                },
+                "properties": {
+                    "nome": "Carrefour Tietê",
+                    "placa": "Side",
+                    "telefone": "",
+                    "endereco": "Av. Morvan Dias de Figueiredo, 3177 - Vila Guilherme, São Paulo - SP, 02063-002",
+                    "icone": "VM.PNG",
+                    "link": "https://www.google.com/maps/place/5aSec+Lavanderia+Carrefour+Vila+Maria+%26+Costura/@-23.5225355,-46.6012522,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce5f1e25ce4dc1:0x2e4e42bada125da9!8m2!3d-23.5225404!4d-46.5990635"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5624613, -23.5609784]
+                },
+                "properties": {
+                    "nome": "Carrefour Anália Franco",
+                    "placa": "Side",
+                    "telefone": "",
+                    "endereco": "Av. Reg. Feijó, 1759 - Vila Reg. Feijó, São Paulo - SP, 03550-100",
+                    "icone": "AF.PNG",
+                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+An%C3%A1lia+Franco/@-23.5609784,-46.5624613,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5c2984cf953f:0xbd5235303824c5f6!8m2!3d-23.5609833!4d-46.5602726"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.6012484, -23.6310541]
+                },
+                "properties": {
+                    "nome": "Carrefour Hipermercado Anchieta",
+                    "placa": "Side",
+                    "telefone": "",
+                    "endereco": "Rod. Anchieta, 3398 - Jardim Maria Estela, São Paulo - SP, 04246-900",
+                    "icone": "AN.PNG",
+                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+Anchieta/@-23.6310541,-46.6012484,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5cad388cba1f:0xb7ea7ef33a34a277!8m2!3d-23.631059!4d-46.5990597"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.7057544, -23.4681066]
+                },
+                "properties": {
+                    "nome": "CELSO LUIZ FERNANDES",
+                    "placa": "EMY-5316",
+                    "telefone": "",
+                    "endereco": "Rua Editor Arnaldo Magalhães de Giacomo, 379 - Sítio Morro Grande, São Paulo - SP, 02808-060",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.CELSO.png",
+                    "link": "https://www.google.com/maps/place/Rua+Editor+Arnaldo+Magalh%C3%A3es+de+Giacomo,+379+-+S%C3%ADtio+Morro+Grande,+S%C3%A3o+Paulo+-+SP,+02808-060/@-23.4681066,-46.7057544,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94cef99b43991f2d:0x707a823893f7b778!8m2!3d-23.4681115!4d-46.7035657",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.4839325, -23.4182057]
+                },
+                "properties": {
+                    "nome": "LUCIANO GOMES DA SILVA",
+                    "placa": "HLR-0686",
+                    "telefone": "",
+                    "endereco": "Jd Malvinas - R. Malvinas - Jardim Bananal, São Paulo - SP",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.LUCIANO.png",
+                    "link": "https://www.google.com/maps/place/Jd+Malvinas/@-23.4182057,-46.4839325,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce8b70b579a59b:0x37edd790a141920b!8m2!3d-23.4182106!4d-46.4817438",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5892186, -23.5010863]
+                },
+                "properties": {
+                    "nome": "JOÂO VITOR",
+                    "placa": "EEN-8279",
+                    "telefone": "",
+                    "endereco": "R. Joaquim Rodrigues Costa, 46 - Vila Maria AltaSão Paulo - SP, 02133-030",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.JOAO.png",
+                    "link": "https://www.google.com/maps/place/R.+Joaquim+Rodrigues+Costa,+46+-+Vila+Maria+Alta,+S%C3%A3o+Paulo+-+SP,+02133-030/@-23.5010863,-46.5892186,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce5f51a15682f9:0xc898b5eb1564a57f!8m2!3d-23.5010912!4d-46.5870299",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.6551849, -23.4708511]
+                },
+                "properties": {
+                    "nome": "EDUARDO NEVES",
+                    "placa": "JEL-3553",
+                    "telefone": "",
+                    "endereco": "Rua Vereador Pedro Brasil Bandecchi, 200 - 83 - Vila Amélia São Paulo - SP 02615 - 040 ",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.EDUARDO.png",
+                    "link": "https://www.google.com/maps/place/Rua+Vereador+Pedro+Brasil+Bandecchi,+200+-+83+-+Vila+Am%C3%A9lia,+S%C3%A3o+Paulo+-+SP,+02615-040/@-23.4708511,-46.6551849,17z/data=!3m1!4b1!4m5!3m4!1s0x94cef772e4bb281d:0x650210026afcd506!8m2!3d-23.4708511!4d-46.6529962",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.7085496, -23.4757865]
+                },
+                "properties": {
+                    "nome": "LUIZ FABIANO",
+                    "placa": "EIL-8E19",
+                    "telefone": "",
+                    "endereco": "R. José Gabriel de Souza - Freguesia Do OSão Paulo - SP 02979-190",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.FABIANO.png",
+                    "link": "https://www.google.com/maps/place/R.+Jos%C3%A9+Gabriel+de+Souza+-+Freguesia+Do+O,+S%C3%A3o+Paulo+-+SP,+02979-190/@-23.4757865,-46.7085496,19z/data=!4m13!1m7!3m6!1s0x94cef99e4aa0b855:0xf1364ded26a7621f!2sR.+Jos%C3%A9+Gabriel+de+Souza+-+Freguesia+Do+O,+S%C3%A3o+Paulo+-+SP,+02979-190!3b1!8m2!3d-23.4755614!4d-46.7080963!3m4!1s0x94cef99e4aa0b855:0xf1364ded26a7621f!8m2!3d-23.4755614!4d-46.7080963",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.7322275, -23.4487758]
+                },
+                "properties": {
+                    "nome": "CARLA CRISTINA",
+                    "placa": "FGH-3926",
+                    "telefone": "",
+                    "endereco": "R. Ângelo Rojas, 91 - Parque Pan AmericanoSão Paulo - SP, 02992-040",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.CARLA.png",
+                    "link": "https://www.google.com/maps/place/R.+%C3%82ngelo+Rojas,+91+-+Parque+Pan+Americano,+S%C3%A3o+Paulo+-+SP,+02992-040/@-23.4487758,-46.7322275,17z/data=!3m1!4b1!4m5!3m4!1s0x94cefbeac1d07ddd:0xeda2c5c3b52e966d!8m2!3d-23.4487758!4d-46.7300388",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.6680985, -23.499748]
+                },
+                "properties": {
+                    "nome": "Luiz Moreira",
+                    "placa": "PZY-9I39",
+                    "telefone": "",
+                    "endereco": "R. Carolina Soares, 584 - Vila Diva, São Paulo - SP, 02554-000",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.MOREIRA.png",
+                    "link": "https://www.google.com/maps/place/R.+Carolina+Soares,+584+-+Vila+Diva,+S%C3%A3o+Paulo+-+SP,+02554-000/@-23.499748,-46.6680985,15z/data=!4m13!1m7!3m6!1s0x94cef78bad1fe9eb:0xe742dd2ac9bb6132!2sR.+Carolina+Soares,+584+-+Vila+Diva,+S%C3%A3o+Paulo+-+SP,+02554-000!3b1!8m2!3d-23.4997759!4d-46.6680256!3m4!1s0x94cef78bad1fe9eb:0xe742dd2ac9bb6132!8m2!3d-23.4997759!4d-46.6680256",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5517241, -23.6015198]
+                },
+                "properties": {
+                    "nome": "WILSON CHRISTOVAM",
+                    "placa": "BBA-5140",
+                    "telefone": "",
+                    "endereco": "R. Costa Barros, 1976 - Bloco B apto. 32 - Vila Alpina, São Paulo - SP, 03210-001",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.CHRISTOVAM.png",
+                    "link": "https://www.google.com/maps/place/R.+Costa+Barros,+1976+-+Bloco+B+apto.+32+-+Vila+Alpina,+S%C3%A3o+Paulo+-+SP,+03210-001/@-23.6015198,-46.5517241,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5d047a86d551:0xdb76980631a9c7d5!8m2!3d-23.6015198!4d-46.5495354",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.613583, -23.6056145]
+                },
+                "properties": {
+                    "nome": "MARCELO ITIRO",
+                    "placa": "FOP-8074",
+                    "telefone": "",
+                    "endereco": "R. Salvador Simões, 1342 - Vila Dom Pedro I, São Paulo - SP, 04276-000",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.MARCELO.png",
+                    "link": "https://www.google.com/maps/place/R.+Salvador+Sim%C3%B5es,+1342+-+Vila+Dom+Pedro+I,+S%C3%A3o+Paulo+-+SP,+04276-000/@-23.6056145,-46.613583,15z/data=!4m15!1m9!3m8!1s0x94ce5bbd7362380b:0x4ceff36efa0da7!2sR.+Salvador+Sim%C3%B5es,+1342+-+Vila+Dom+Pedro+I,+S%C3%A3o+Paulo+-+SP,+04276-000!3b1!8m2!3d-23.6056399!4d-46.6137281!14m1!1BCgIgAQ!3m4!1s0x94ce5bbd7362380b:0x4ceff36efa0da7!8m2!3d-23.6056399!4d-46.6137281",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5249279, -23.6317881]
+                },
+                "properties": {
+                    "nome": "KAIKE REINAQUE",
+                    "placa": "CUC-8J90",
+                    "telefone": "",
+                    "endereco": "R. Ozanan, 26 - Vila Alto de Santo AndreSanto André - SP, 09240-420",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.KAIKE.png",
+                    "link": "https://www.google.com/maps/place/R.+Ozanan,+26+-+Vila+Alto+de+Santo+Andre,+Santo+Andr%C3%A9+-+SP,+09240-420/@-23.6317881,-46.5249279,3a,75y,181.19h,90t/data=!3m6!1e1!3m4!1sG23cweovsoRiJrebdW10Ng!2e0!7i16384!8i8192!4m5!3m4!1s0x94ce42afc948e411:0x98d38d54e00d1a65!8m2!3d-23.6319352!4d-46.5249308",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.4434851, -23.5453486]
+                },
+                "properties": {
+                    "nome": "ANDERSON VASCONCELOS",
+                    "placa": "QMT-8A67",
+                    "telefone": "",
+                    "endereco": "R. Rio Imburana, 228 - Conj. Res. José Bonifácio, São Paulo - SP, 08215-510",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.VASCONCELOS.png",
+                    "link": "https://www.google.com/maps/place/R.+Rio+Imburana,+228+-+Conj.+Res.+Jos%C3%A9+Bonif%C3%A1cio,+S%C3%A3o+Paulo+-+SP,+08215-510/@-23.5453486,-46.4434851,3a,75y,202.56h,90t/data=!3m6!1e1!3m4!1sEMfZoSi5kyr51BlyRQi53g!2e0!7i16384!8i8192!4m5!3m4!1s0x94ce669d22417d8d:0xb23c3fc772cc15bd!8m2!3d-23.5454446!4d-46.4435241",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5201495, -23.6238028]
+                },
+                "properties": {
+                    "nome": "KATIA CINELE",
+                    "placa": "CYN-8587",
+                    "telefone": "",
+                    "endereco": "R. Maracaibo, 112 - Jardim das MaravilhasSanto André - SP, 92500-080",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.KATIA.png",
+                    "link": "https://www.google.com/maps/place/R.+Maracaibo,+112+-+Jardim+das+Maravilhas,+Santo+Andr%C3%A9+-+SP,+92500-080/@-23.6238028,-46.5201495,3a,75y,267.36h,90t/data=!3m6!1e1!3m4!1sIgw1PyjUbA0pmca4xz62Ow!2e0!7i16384!8i8192!4m5!3m4!1s0x94ce42ab43ecd903:0x3c8d5f93234eb572!8m2!3d-23.6237875!4d-46.5202378",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5960101, -23.6085314]
+                },
+                "properties": {
+                    "nome": "Francisco Alves",
+                    "placa": "EGU-7261",
+                    "telefone": "",
+                    "endereco": "R. Cônego Xavier, 24 - Cidade Nova Heliópolis, São Paulo - SP, 04231-030",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.FRANCISCO.png",
+                    "link": "https://www.google.com/maps/place/R.+C%C3%B4nego+Xavier,+24+-+Cidade+Nova+Heli%C3%B3polis,+S%C3%A3o+Paulo+-+SP,+04231-030/@-23.6085314,-46.5960101,15z/data=!4m13!1m7!3m6!1s0x94ce5b81068ba2a5:0x856450844dcf4b52!2sR.+C%C3%B4nego+Xavier,+24+-+Cidade+Nova+Heli%C3%B3polis,+S%C3%A3o+Paulo+-+SP,+04231-030!3b1!8m2!3d-23.6085435!4d-46.5961772!3m4!1s0x94ce5b81068ba2a5:0x856450844dcf4b52!8m2!3d-23.6085435!4d-46.5961772",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5134588, -23.5751367]
+                },
+                "properties": {
+                    "nome": "Fernando Luiz",
+                    "placa": "FWX-3374",
+                    "telefone": "",
+                    "endereco": "R. Minérios Atômicos, 440 - Vila AntonietaSão Paulo - SP, 03476-020",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.FERNANDO.png",
+                    "link": "https://www.google.com/maps/place/R.+Min%C3%A9rios+At%C3%B4micos,+440+-+Vila+Antonieta,+S%C3%A3o+Paulo+-+SP,+03476-020/@-23.5751367,-46.5134588,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce677b862abd8d:0x6abe2a89fbea00f7!8m2!3d-23.5751367!4d-46.5112701",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.4389134, -23.5512685]
+                },
+                "properties": {
+                    "nome": "Carlos Henrique",
+                    "placa": "FDA-1562",
+                    "telefone": "",
+                    "endereco": "Av. Prof. João Batista Conti, 869 - Conj. Res. José Bonifácio, São Paulo - SP, 08255-210",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.CARLOS.png",
+                    "link": "https://www.google.com/maps/place/Av.+Prof.+Jo%C3%A3o+Batista+Conti,+869+-+Conj.+Res.+Jos%C3%A9+Bonif%C3%A1cio,+S%C3%A3o+Paulo+-+SP,+08255-210/@-23.5512685,-46.4389134,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce642a2ae90e85:0x692d4e196345665!8m2!3d-23.5512685!4d-46.4367247",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5855306, -23.592944]
+                },
+                "properties": {
+                    "nome": "Anderson Alves",
+                    "placa": "PXD-1070",
+                    "telefone": "",
+                    "endereco": "R. Rio Duas Barras, 180 - Vila Prudente São Paulo - SP, 03152-240",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.ANDERSON.png",
+                    "link": "https://www.google.com/maps/place/R.+Rio+Duas+Barras,+180+-+Vila+Prudente,+S%C3%A3o+Paulo+-+SP/@-23.592944,-46.5855306,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5c6e186e4131:0x541ca7c4e722b2ce!8m2!3d-23.592944!4d-46.5833419",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.4267494, -23.5407789]
+                },
+                "properties": {
+                    "nome": "Thiago Santos",
+                    "placa": "PUC-1646",
+                    "telefone": "",
+                    "endereco": "R. Dr. Oliveira Arruda, 148 - Jardim HelenaSão Paulo - SP, 08420-020",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.THIAGO.png",
+                    "link": "https://www.google.com/maps/place/R.+Dr.+Oliveira+Arruda,+148+-+Jardim+Helena,+S%C3%A3o+Paulo+-+SP,+08420-020/@-23.5407789,-46.4267494,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce64398caa5ff7:0x55098720820dee99!8m2!3d-23.5407789!4d-46.4245607",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.3962704, -23.5018147]
+                },
+                "properties": {
+                    "nome": "Marco Aurelio",
+                    "placa": "EAR-9B68",
+                    "telefone": "",
+                    "endereco": "R. Albuquerque Pinheiro, 292 - Itaim PaulistaSão Paulo - SP, 08120-340",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.MARCO.png",
+                    "link": "https://www.google.com/maps/place/R.+Albuquerque+Pinheiro,+292+-+Itaim+Paulista,+S%C3%A3o+Paulo+-+SP,+08120-340/data=!4m2!3m1!1s0x94ce637d98fc43f3:0x51e3899c16ad0b29?sa=X&ved=2ahUKEwiJ5Zb-1pDwAhV5FrkGHTItCjIQ8gEwAHoECAMQAQ",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5052835, -23.4905441]
+                },
+                "properties": {
+                    "nome": "Clevison Vieira",
+                    "placa": "EZM-2320",
+                    "telefone": "",
+                    "endereco": "R. Col. Leopoldina, 194 - Vila Silvia - São Paulo - SP, 03821-020",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.CLEVISON.png",
+                    "link": "https://www.google.com/maps/place/R.+Col.+Leopoldina,+194+-+Vila+Silvia,+S%C3%A3o+Paulo+-+SP,+03821-020/@-23.4905441,-46.5052835,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce606ee7353d5d:0x60be30f1c1529f45!8m2!3d-23.4905441!4d-46.5030948",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5441608, -23.5103007]
+                },
+                "properties": {
+                    "nome": "Fernando Fernandes",
+                    "placa": "OQS-6C94",
+                    "telefone": "",
+                    "endereco": "R. Miguel Sutil, 240 - Vila MesquitaSão Paulo - SP, 03714-030",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.FERNANDOS.png",
+                    "link": "https://www.google.com/maps/place/R.+Miguel+Sutil,+240+-+Vila+Mesquita,+S%C3%A3o+Paulo+-+SP,+03714-030/@-23.5103007,-46.5441608,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fb16d1ed967:0x35017e2c8a320de8!8m2!3d-23.5103007!4d-46.5419721",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.5778664, -23.6262409]
+                },
+                "properties": {
+                    "nome": "Carlos Rossi",
+                    "placa": "DPF-2867",
+                    "telefone": "",
+                    "endereco": "R. Castro Alves, 37 - CerâmicaSão Caetano do Sul - SP, 09540-030",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAN.ROSSI.png",
+                    "link": "https://www.google.com/maps/place/R.+Castro+Alves,+37+-+Cer%C3%A2mica,+S%C3%A3o+Caetano+do+Sul+-+SP,+09540-030/@-23.6262409,-46.5778664,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5cbf16a22ddf:0x95e9a5b4e9f8f29a!8m2!3d-23.6262409!4d-46.5756777",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.4239287, -23.6165154]
+
+                },
+                "properties": {
+                    "nome": "Luciano Santos da Silva",
+                    "placa": "EFU-1687",
+                    "telefone": "",
+                    "endereco": "R. Gonçalves de Lima, 18 - Recanto Verde do Sol, São Paulo - SP, 08391-603",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.SANTOS.png",
+                    "link": "https://www.google.com/maps/place/R.+Gon%C3%A7alves+de+Lima,+18+-+Recanto+Verde+do+Sol,+S%C3%A3o+Paulo+-+SP,+08391-603/@-23.6165154,-46.4239287,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce6f3d3060122d:0x719cf8ce7956011d!8m2!3d-23.6165154!4d-46.42174",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            }
+        ]
+    }
+}

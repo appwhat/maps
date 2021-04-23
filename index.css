@@ -1,0 +1,256 @@
+.listings {
+    height: 100%;
+    overflow: auto;
+    padding-bottom: 60px;
+}
+
+.listings .item {
+    display: block;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0px 0px 10px;
+    text-decoration: none;
+}
+
+.listings .item:last-child {
+    border-bottom: none;
+}
+
+.listings .item .title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    object-fit: contain;
+    color: #000;
+    font-size: 1.05rem;
+    font-weight: 300;
+}
+
+.listings .item .title small {
+    font-weight: 400;
+}
+
+.listings .item .title img {
+    margin-right: 6px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+
+.listings .item .placa {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 4px;
+    color: rgb(70, 70, 70);
+}
+
+.listings .item.active .title {
+    color: rgb(0, 0, 0)
+}
+
+.listings .item:hover {
+    background-color: rgb(242, 242, 242);
+}
+
+.listings .item.active {
+    background-color: rgb(228, 228, 228);
+}
+
+ ::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+    border-left: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+ ::-webkit-scrollbar-track {
+    background: none;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #00853e;
+    border-radius: 0;
+}
+
+.clearfix {
+    display: block;
+}
+
+.clearfix::after {
+    content: '.';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    color: #404040;
+    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    font-size: 22px;
+    margin: 0;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 20px 2px;
+}
+
+a {
+    color: #404040;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #101010;
+}
+
+
+/* The page is split between map and sidebar - the sidebar gets 1/3, map
+        gets 2/3 of the page. You can adjust this to your personal liking. */
+
+.sidebar {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    border-right: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.map {
+    position: absolute;
+    left: 25%;
+    width: 75%;
+    top: 0;
+    bottom: 0;
+}
+
+.heading {
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 10px;
+}
+
+.mapboxgl-popup-close-button {
+    display: none;
+}
+
+.mapboxgl-popup-content {
+    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+    padding: 0;
+    width: 180px;
+}
+
+.mapboxgl-popup-content-wrapper {
+    padding: 1%;
+}
+
+.mapboxgl-popup-content h3 {
+    background: #91c949;
+    color: #fff;
+    margin: 0;
+    display: block;
+    padding: 10px;
+    border-radius: 3px 3px 0 0;
+    font-weight: 700;
+    margin-top: -15px;
+    text-align: center;
+}
+
+.mapboxgl-popup-content a {
+    outline: none;
+    background: #05acd1;
+    color: #fff;
+    margin: 0;
+    display: block;
+    padding: 5px;
+    font-weight: 700;
+    margin-top: 2px;
+    text-align: center;
+}
+
+.mapboxgl-popup-content img {
+    margin-left: 10px;
+    width: 20px;
+}
+
+.mapboxgl-popup-content h4 {
+    margin: 0;
+    display: block;
+    padding: 10px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.mapboxgl-popup-content div {
+    padding: 10px;
+}
+
+.mapboxgl-container .leaflet-marker-icon {
+    cursor: pointer;
+}
+
+.mapboxgl-popup-anchor-top>.mapboxgl-popup-content {
+    margin-top: 15px;
+}
+
+.mapboxgl-popup-anchor-top>.mapboxgl-popup-tip {
+    border-bottom-color: #91c949;
+}
+
+.marker {
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    /*  background-image: url(driver.png); */
+    background-color: rgba(0, 0, 0, 0);
+    background-size: cover;
+    object-fit: fill;
+}
+
+.mapboxgl-popup {
+    padding-bottom: 50px;
+}
+
+.mapboxgl-ctrl-geocoder {
+    outline: none;
+    border: none;
+    border-radius: 0;
+    position: relative;
+    top: 0;
+    width: 800px;
+    margin-top: 0;
+}
+
+.mapboxgl-ctrl-geocoder>div {
+    min-width: 100%;
+    margin-left: 0;
+}
+
+@media (max-width: 800px) {
+    .listings .item .title img {
+        display: none;
+        margin-right: 6px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        object-fit: fill;
+    }
+}
