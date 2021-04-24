@@ -50,6 +50,21 @@
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
+                    "coordinates": [-46.5441608,-23.5103007]
+                },
+                "properties": {
+                    "nome": "Fernando Fernandes",
+                    "placa": "OQS-6C94",
+                    "telefone": "",
+                    "endereco": "R. Miguel Sutil, 240 - Vila Mesquita, São Paulo - SP, 03714-030",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.FERNANDOS.png",
+                    "link": "https://www.google.com/maps/place/R.+Miguel+Sutil,+240+-+Vila+Mesquita,+S%C3%A3o+Paulo+-+SP,+03714-030/@-23.5103007,-46.5441608,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fb16d1ed967:0x35017e2c8a320de8!8m2!3d-23.5103007!4d-46.5419721"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
                     "coordinates": [-46.7057544, -23.4681066]
                 },
                 "properties": {
