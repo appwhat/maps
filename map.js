@@ -23,7 +23,7 @@ fetch('index.json').then(function(data) {
         /* Criando Mapa */
         var map = new mapboxgl.Map({
             container: 'map',
-            style: 'mapbox://styles/mapbox/satellite-v9',
+            style: 'mapbox://styles/mapbox/streets-v11',
             center: [-46.6012504, -23.5221877],
             zoom: 11,
             scrollZoom: true
