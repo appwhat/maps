@@ -148,8 +148,8 @@ fetch('index.json').then(function(data) {
                         /* Math.sign(num) * ((Math.abs(num) / 1000).toFixed(1)) + 'k': Math.sign(num) * Math.abs(num)*/
 
                     roundedDistance <= 99 ?
-                        details.innerHTML += `<p>${Math.sign(roundedDistance) * Math.abs(roundedDistance / 100).toFixed(3)} Metros</p>` :
-                        details.innerHTML += `<p>${Math.sign(roundedDistance) * Math.abs(roundedDistance / 100).toFixed(3)} Km</p>`;
+                        details.innerHTML += `<p style="color: gray">${Math.sign(roundedDistance) * Math.abs(roundedDistance / 100).toFixed(3)} Metros</p>` :
+                        details.innerHTML += `<p style="color: gray">${Math.sign(roundedDistance) * Math.abs(roundedDistance / 100).toFixed(3)} Km</p>`;
                 }
 
                 link.addEventListener('click', function(e) {
