@@ -1,10 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 .listings {
     height: 100%;
     overflow: auto;
+    padding: 6px;
     padding-bottom: 60px;
 }
 
 .listings .item {
+    position: relative;
     display: block;
     border-bottom: 1px solid #eee;
     padding: 10px 0px 0px 10px;
@@ -20,8 +30,8 @@
     justify-content: flex-start;
     align-items: center;
     object-fit: contain;
-    color: #000;
-    font-size: 1.05rem;
+    color: #4a4a4a;
+    font-size: 1.1rem;
     font-weight: 300;
 }
 
@@ -38,10 +48,14 @@
 }
 
 .listings .item .placa {
+    position: relative;
+    top: -20px;
+    left: 58px;
     display: flex;
+    font-size: 16px;
+    margin-right: 80px;
     justify-content: space-between;
-    margin: 0 4px;
-    color: rgb(70, 70, 70);
+    color: #4a4a4a
 }
 
 .listings .item.active .title {
@@ -57,18 +71,18 @@
 }
 
  ::-webkit-scrollbar {
-    width: 3px;
+    width: 6px;
     height: 3px;
     border-left: 0;
     background: rgba(0, 0, 0, 0.1);
 }
 
- ::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
     background: none;
 }
 
- ::-webkit-scrollbar-thumb {
-    background: #00853e;
+::-webkit-scrollbar-thumb {
+    background: #00853e85;
     border-radius: 0;
 }
 
@@ -252,5 +266,12 @@ a:hover {
         height: 50px;
         border-radius: 50%;
         object-fit: fill;
+    }
+    .listings .item .placa {
+        position: initial;
+        margin-right: 0;
+    }
+    .listings .item {
+        position: initial;
     }
 }
