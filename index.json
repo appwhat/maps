@@ -13,24 +13,22 @@
                     "telefone": "",
                     "endereco": "Av. Morvan Dias de Figueiredo, 3177 - Vila Guilherme, São Paulo - SP, 02063-002",
                     "icone": "https://cdn.iconscout.com/icon/free/png-256/carrefour-283188.png",
-                    "link": "https://www.google.com/maps/place/5aSec+Lavanderia+Carrefour+Vila+Maria+%26+Costura/@-23.5225355,-46.6012522,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce5f1e25ce4dc1:0x2e4e42bada125da9!8m2!3d-23.5225404!4d-46.5990635",
-                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                    "link": "https://www.google.com/maps/place/5aSec+Lavanderia+Carrefour+Vila+Maria+%26+Costura/@-23.5225355,-46.6012522,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce5f1e25ce4dc1:0x2e4e42bada125da9!8m2!3d-23.5225404!4d-46.5990635"
                 }
             },
             {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-46.5624613,-23.5609784]
+                    "coordinates": [-46.5624613, -23.5609784]
                 },
                 "properties": {
-                    "nome": "Sidney Rogerio",
-                    "placa": "PYF-5H42",
+                    "nome": "Carrefour Anália Franco",
+                    "placa": "Side",
                     "telefone": "",
                     "endereco": "Av. Reg. Feijó, 1759 - Vila Reg. Feijó, São Paulo - SP, 03550-100",
-                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.SIDNEY.png",
-                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+An%C3%A1lia+Franco/@-23.5609784,-46.5624613,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5c2984cf953f:0xbd5235303824c5f6!8m2!3d-23.5609833!4d-46.5602726",
-                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                    "icone": "https://cdn.iconscout.com/icon/free/png-256/carrefour-283188.png",
+                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+An%C3%A1lia+Franco/@-23.5609784,-46.5624613,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5c2984cf953f:0xbd5235303824c5f6!8m2!3d-23.5609833!4d-46.5602726"
                 }
             },
             {
@@ -45,15 +43,14 @@
                     "telefone": "",
                     "endereco": "Rod. Anchieta, 3398 - Jardim Maria Estela, São Paulo - SP, 04246-900",
                     "icone": "https://cdn.iconscout.com/icon/free/png-256/carrefour-283188.png",
-                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+Anchieta/@-23.6310541,-46.6012484,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5cad388cba1f:0xb7ea7ef33a34a277!8m2!3d-23.631059!4d-46.5990597",
-                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                    "link": "https://www.google.com/maps/place/Carrefour+Hipermercado+Anchieta/@-23.6310541,-46.6012484,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5cad388cba1f:0xb7ea7ef33a34a277!8m2!3d-23.631059!4d-46.5990597"
                 }
             },
             {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-46.5441608,-23.5103007]
+                    "coordinates": [-46.5441608, -23.5103007]
                 },
                 "properties": {
                     "nome": "Fernando Fernandes",
@@ -61,8 +58,7 @@
                     "telefone": "",
                     "endereco": "R. Miguel Sutil, 240 - Vila Mesquita, São Paulo - SP, 03714-030",
                     "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.FERNANDOS.png",
-                    "link": "https://www.google.com/maps/place/R.+Miguel+Sutil,+240+-+Vila+Mesquita,+S%C3%A3o+Paulo+-+SP,+03714-030/@-23.5103007,-46.5441608,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fb16d1ed967:0x35017e2c8a320de8!8m2!3d-23.5103007!4d-46.5419721",
-                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                    "link": "https://www.google.com/maps/place/R.+Miguel+Sutil,+240+-+Vila+Mesquita,+S%C3%A3o+Paulo+-+SP,+03714-030/@-23.5103007,-46.5441608,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fb16d1ed967:0x35017e2c8a320de8!8m2!3d-23.5103007!4d-46.5419721"
                 }
             },
             {
@@ -101,6 +97,22 @@
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
+                    "coordinates": [-46.5301799, -23.5020891]
+                },
+                "properties": {
+                    "nome": "Sidney Rogerio",
+                    "placa": "PYF-52H2",
+                    "telefone": "",
+                    "endereco": "Rua Hugo Wolf, 226 - Vila Paulistania, São Paulo - SP, 03720-130",
+                    "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLAF.SIDNEY.png",
+                    "link": "https://www.google.com/maps/place/Rua+Hugo+Wolf,+226+-+Vila+Paulistania,+S%C3%A3o+Paulo+-+SP,+03720-130/@-23.5020891,-46.5301799,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fcf8400204d:0x9e0d99ff9ea5ebb6!8m2!3d-23.5020891!4d-46.5279912",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
                     "coordinates": [-46.5892186, -23.5010863]
                 },
                 "properties": {
@@ -111,22 +123,6 @@
                     "icone": "https://dlievecarrefour.blob.core.windows.net/dlieve/Carrefour%20Com%C3%A9rcio%20&%20Ind%C3%BAstria%20Ltda/Portador/LMLVM.JOAO.png",
                     "link": "https://www.google.com/maps/place/R.+Joaquim+Rodrigues+Costa,+46+-+Vila+Maria+Alta,+S%C3%A3o+Paulo+-+SP,+02133-030/@-23.5010863,-46.5892186,730m/data=!3m2!1e3!4b1!4m5!3m4!1s0x94ce5f51a15682f9:0xc898b5eb1564a57f!8m2!3d-23.5010912!4d-46.5870299",
                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
-                }
-            },
-            {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [-46.5624613, -23.5609784]
-                },
-                "properties": {
-                    "nome": "Carrefour Anália Franco",
-                    "placa": "Side",
-                    "telefone": "",
-                    "endereco": "Rua Hugo Wolf, 226 - Vila Paulistania, São Paulo - SP, 03720-130",
-                    "icone": "https://cdn.iconscout.com/icon/free/png-256/carrefour-283188.png",
-                    "link": "https://www.google.com/maps/place/Rua+Hugo+Wolf,+226+-+Vila+Paulistania,+S%C3%A3o+Paulo+-+SP,+03720-130/@-23.5020891,-46.5301799,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5fcf8400204d:0x9e0d99ff9ea5ebb6!8m2!3d-23.5020891!4d-46.5279912",
-                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
                 }
             },
             {
@@ -389,7 +385,7 @@
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-46.4948194,-23.5186545]
+                    "coordinates": [-46.4948194, -23.5186545]
                 },
                 "properties": {
                     "nome": "Vanderlei Lemes",
