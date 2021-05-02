@@ -6,6 +6,31 @@ body {
     padding: 0;
 }
 
+
+/* Meu CSS */
+
+.closeHamburguer {
+    display: none;
+    cursor: pointer;
+    padding: 6px;
+    color: #91c949;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.hamburguer {
+    cursor: pointer;
+    color: #91c949;
+    /*  display: none; */
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    z-index: 1000;
+}
+
 .listings {
     height: 100%;
     overflow: auto;
@@ -134,33 +159,41 @@ a:hover {
         gets 2/3 of the page. You can adjust this to your personal liking. */
 
 .sidebar {
+    display: none;
     position: absolute;
     width: 25%;
+    z-index: 1000;
     height: 100%;
     top: 0;
     left: 0;
+    background-color: #fff;
     overflow: hidden;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
 }
 
 .map {
     position: absolute;
-    left: 25%;
-    width: 75%;
+    left: 0%;
+    width: 100%;
     top: 0;
     bottom: 0;
 }
 
 .heading {
-    background: #fff;
+    background-color: #fff;
     border-bottom: 1px solid #eee;
     height: 60px;
     line-height: 60px;
     padding: 0 10px;
+    z-index: 1001;
 }
 
 .mapboxgl-popup-close-button {
-    display: none;
+    position: absolute;
+    top: 20px;
+    right: 0;
+    font-size: 1.8rem;
+    color: gray;
 }
 
 .mapboxgl-popup-content {
@@ -259,6 +292,15 @@ a:hover {
 }
 
 @media (max-width: 800px) {
+    .sidebar {
+        width: 100%;
+        z-index: 1000;
+        display: none;
+    }
+    .listings {
+        z-index: 1000;
+        background-color: #fff;
+    }
     .listings .item .title img {
         display: none;
         margin-right: 6px;
@@ -273,5 +315,29 @@ a:hover {
     }
     .listings .item {
         position: initial;
+    }
+    /* MAPA */
+    .map {
+        position: absolute;
+        left: 0%;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+    }
+    .hamburguer {
+        display: block;
+    }
+    .closeHamburguer {
+        display: none;
+    }
+    /* Campo busca */
+    .mapboxgl-ctrl-geocoder {
+        outline: none;
+        border: none;
+        border-radius: 0;
+        position: relative;
+        top: 0;
+        width: 350px;
+        margin-top: 0;
     }
 }
