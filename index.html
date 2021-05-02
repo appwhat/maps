@@ -7,7 +7,7 @@
     <title>MapBox</title>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
-
+    <script src="https://kit.fontawesome.com/69d4cc193b.js" crossorigin="anonymous"></script>
     <!-- Apagar daqui -->
     <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js'></script>
     <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css' type='text/css' />
@@ -22,15 +22,38 @@
 </head>
 
 <body>
+    <i class="hamburguer fas fa-caret-square-right"></i>
+
     <div class='sidebar'>
         <div class='heading'>
-            <h1>Motoristas</h1>
+            <h1>Motoristas</h1><i class="closeHamburguer fas fa-times"></i>
         </div>
         <div id='listings' class='listings'></div>
     </div>
     <div id="map" class="map"></div>
 
+
     <!--0652985734620011993-->
+
+    <script>
+        var closeHamburguer = document.querySelector(".closeHamburguer")
+        var burguer = document.querySelector(".hamburguer")
+
+
+
+        burguer.onclick = function mostrarHeading() {
+            var sidebar = document.querySelector(".sidebar")
+            sidebar.style.display = "block";
+            closeHamburguer.style.display = "block";
+            burguer.style.display = "none";
+        }
+        closeHamburguer.onclick = function mostrarHeading() {
+            var sidebar = document.querySelector(".sidebar")
+            sidebar.style.display = "none";
+            closeHamburguer.style.display = "none";
+            burguer.style.display = "block";
+        }
+    </script>
 
     <link rel="stylesheet" href="index.css">
     <script src="map.js"></script>
