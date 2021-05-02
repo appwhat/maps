@@ -89,6 +89,8 @@ fetch('index.json').then(function(data) {
                     }
                     return 0; // a must be equal to b
                 });
+
+
                 /* reconstrua a lista usando a matriz reordenada que você criou.  */
                 var listings = document.getElementById('listings');
                 while (listings.firstChild) {
@@ -144,7 +146,7 @@ fetch('index.json').then(function(data) {
                 /* ============================================================================================ */
                 /* Controle de KM */
                 if (prop.distance) {
-                    var roundedDistance = Math.round(prop.distance * 207)
+                    var roundedDistance = Math.round(prop.distance * 250)
                         /* Math.sign(num) * ((Math.abs(num) / 1000).toFixed(1)) + 'k': Math.sign(num) * Math.abs(num)*/
 
                     roundedDistance <= 99 ?
@@ -180,9 +182,6 @@ fetch('index.json').then(function(data) {
                 /* Assign a unique `id` to the marker. */
                 el.id = 'marker-' + marker.properties.id;
                 /* Assign the `marker` class to each marker for styling. */
-                console.log(marker.properties.icone)
-
-
                 el.style.backgroundImage = `url("${marker.properties.icone}")`;
                 el.className = 'marker';
 
@@ -230,9 +229,10 @@ fetch('index.json').then(function(data) {
         function flyToStore(currentFeature) {
             map.flyTo({
                 center: currentFeature.geometry.coordinates,
-                zoom: 14
+                zoom: 15
             });
         }
+
 
         /**
          * Create a Mapbox GL JS `Popup`.
@@ -250,5 +250,7 @@ fetch('index.json').then(function(data) {
                 /* <img style="width: 30px;" src="${currentFeature.properties.icone}"/> */
                 .addTo(map);
         }
+
+
     })
 })
