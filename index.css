@@ -327,7 +327,8 @@ a:hover {
         bottom: 0;
     }
     .hamburguer {
-        display: block;
+        display: block;]
+        right: 40%;
     }
     .closeHamburguer {
         display: none;
