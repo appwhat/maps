@@ -429,6 +429,23 @@
                     "link": "https://www.google.com/maps/place/R.+Dr.+Lauro+Ribas+Braga,+295+-+Guarapiranga,+S%C3%A3o+Paulo+-+SP,+04910-090/@-23.6838293,-46.7398256,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce51ee06586d81:0x7f2689bb5c3af975!8m2!3d-23.6838293!4d-46.7376369",
                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
                 }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [-46.7358249, -23.7934763]
+
+                },
+                "properties": {
+                    "nome": "Waltecir da Silva",
+                    "placa": "EDT-1660",
+                    "telefone": "",
+                    "endereco": "R. Projetada, 37 - Recanto Campo Belo, São Paulo - SP, 04880-045",
+                    "icone": "https://raw.githubusercontent.com/appwhat/maps/main/image/LMLAN.WALTECIR.png",
+                    "link": "https://www.google.com/maps/place/R.+Projetada,+37+-+Recanto+Campo+Belo,+S%C3%A3o+Paulo+-+SP,+04880-045/@-23.7934763,-46.7358249,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce4969e8d36f97:0x4e0010e7c3775305!8m2!3d-23.7934763!4d-46.7336362",
+                    "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
+                }
             }
         ]
     }
