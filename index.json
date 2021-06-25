@@ -289,15 +289,15 @@
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-46.5134588, -23.5751367]
+                    "coordinates": [-46.4658468, -23.5306227]
                 },
                 "properties": {
-                    "nome": "Fernando Luiz",
+                    "nome": "Silvio Amâncio",
                     "placa": "FWX-3374",
                     "telefone": "",
-                    "endereco": "R. Minérios Atômicos, 440 - Vila AntonietaSão Paulo - SP, 03476-020",
-                    "icone": "https://raw.githubusercontent.com/appwhat/maps/main/image/LMLVM.FERNANDO.png",
-                    "link": "https://www.google.com/maps/place/R.+Min%C3%A9rios+At%C3%B4micos,+440+-+Vila+Antonieta,+S%C3%A3o+Paulo+-+SP,+03476-020/@-23.5751367,-46.5134588,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce677b862abd8d:0x6abe2a89fbea00f7!8m2!3d-23.5751367!4d-46.5112701",
+                    "endereco": "Av. André Cavalcanti, 510 - Vila Regina, São Paulo - SP, 08225-435",
+                    "icone": "https://raw.githubusercontent.com/appwhat/maps/main/image/LMLAF.SILVIO.png",
+                    "link": "https://www.google.com/maps/place/Av.+Andr%C3%A9+Cavalcanti,+510+-+Vila+Regina,+S%C3%A3o+Paulo+-+SP,+08225-435/@-23.5305551,-46.4637187,3a,75y,140.58h,90t/data=!3m5!1e1!3m3!1s3qv8YUg2wPdzjA-2rD_E9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3qv8YUg2wPdzjA-2rD_E9Q%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D140.57872%26pitch%3D0%26thumbfov%3D100!4m5!3m4!1s0x94ce66cc0cac6913:0x112fff19b337bc90!8m2!3d-23.5306227!4d-46.4636581",
                     "mapIcon": "https://www.flaticon.com/svg/vstatic/svg/2642/2642502.svg?token=exp=1618894751~hmac=7e09f456190be8983e22293a540f0eae"
                 }
             },
